@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmB3a9hF9XuHNfA04ewuEs0euoHeGv4MQ4Ra2MOYVGKhbxuz2nljKlWhG2oXhDfmbeU0SOIfyCyOP66ZQRwDwg==",
+  "success": true,
+  "projectFilePath": "/home/keofla/HTB/Visual/revbashgit/revbash/revbash.csproj",
+  "expectedPackageFiles": [
+    "/home/keofla/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/keofla/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/keofla/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
